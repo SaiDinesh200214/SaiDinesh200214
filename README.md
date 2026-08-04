@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://saidinesh-portfolioweb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=firefox-browser&logoColor=black&labelColor=0d1117"/></a>
+<a href="https://saidineshandekar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=firefox-browser&logoColor=black&labelColor=0d1117"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/saidineshandekar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
